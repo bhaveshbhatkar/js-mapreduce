@@ -1,0 +1,8 @@
+Javascript Map Reduce --
+1) Create JS Map Reduce Program(functions)
+2) Upload JS files using fs.put()
+3) execute JS programs
+4) Read data from HDFS to file variabe
+5 Parse Data
+6) Use Graph Function for plotting the Graphs
+
